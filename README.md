@@ -45,6 +45,7 @@ o PC4: 192.168.4.2, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
 o PC5: 192.168.4.3, Subnet Mask: 255.255.255.0, Gateway: 192.168.4.1
  
 # PROGRAM
+```
 
 Router0 Configuration Steps
 Click Router 0 and in CLI TYPE THIS Router> enable
@@ -91,6 +92,7 @@ You can also check connectivity between the PCs on different networks to ensure 
 3.	Use the ping command: ping 192.168.3.2
 4.	If everything is configured correctly, you should receive replies from PC3.
 •	Similarly, you can ping between other PCs (e.g., from PC2 to PC5) to verify network connective
+```
  
 # OUTPUT
 <img width="1050" height="1072" alt="image" src="https://github.com/user-attachments/assets/9e548af9-6d23-4e85-9517-21270c28dddf" />
